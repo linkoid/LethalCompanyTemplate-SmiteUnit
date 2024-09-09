@@ -1,8 +1,8 @@
 ﻿using BepInEx;
 using BepInEx.Logging;
 using HarmonyLib;
-using YourThunderstoreTeam.patch;
-using YourThunderstoreTeam.service;
+using YourThunderstoreTeam.Patch;
+using YourThunderstoreTeam.Service;
 
 namespace YourThunderstoreTeam;
 

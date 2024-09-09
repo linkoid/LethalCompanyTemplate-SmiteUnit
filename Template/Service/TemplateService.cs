@@ -1,4 +1,4 @@
-﻿namespace YourThunderstoreTeam.service;
+﻿namespace YourThunderstoreTeam.Service;
 
 /// <summary>
 /// Example of service detached from the game.

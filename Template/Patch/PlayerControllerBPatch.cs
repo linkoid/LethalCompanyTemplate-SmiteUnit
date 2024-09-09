@@ -1,7 +1,7 @@
 ﻿using GameNetcodeStuff;
 using HarmonyLib;
 
-namespace YourThunderstoreTeam.patch;
+namespace YourThunderstoreTeam.Patch;
 
 /// <summary>
 /// Patch to modify the behavior of a player.

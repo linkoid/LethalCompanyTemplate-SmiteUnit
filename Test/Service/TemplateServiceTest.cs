@@ -1,6 +1,6 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace YourThunderstoreTeam.service;
+namespace YourThunderstoreTeam.Service;
 
 public class TemplateServiceBaseTest
 {
